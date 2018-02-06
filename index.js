@@ -9,6 +9,7 @@ function nestedTarget() {
 function deepestChild() {
   const nodes = document.querySelectorAll('#grand-node div');
   var deepest = nodes[nodes.length-1];
+  return deepest;
 }
 
 function increaseRankBy(n) {
