@@ -1,3 +1,11 @@
-function getFirstSelector() {
+function getFirstSelector(selector) {
+  
+}
+
+function deepestChild() {
+  
+}
+
+function increaseRankBy(n) {
   
 }
